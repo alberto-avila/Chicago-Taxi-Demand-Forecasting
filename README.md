@@ -67,4 +67,4 @@ Python · statsmodels (SARIMAX, UnobservedComponents, ADF, seasonal decompositio
 
 ---
 
-*Built as part of the Time Series Analysis and Forecasting course in my master's program at the University of Chicago.*
+*Built as part of my master's program at the University of Chicago.*
